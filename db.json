@@ -1,0 +1,106 @@
+{
+  "toy": [
+    {
+      "id": "1",
+      "title": "Army men",
+      "type": "Action figures",
+      "price": {
+        "currency": "$",
+        "amount": 20
+      },
+      "ageRestrictions": {
+        "from": 7
+      },
+      "discount": {
+        "type": "amount",
+        "amount": 5
+      },
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bucketosoldiers.jpg/1280px-Bucketosoldiers.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Doll",
+      "type": "Matryoshka doll",
+      "price": {
+        "currency": "$",
+        "amount": 40
+      },
+      "ageRestrictions": {
+        "from": 3
+      },
+      "discount": {
+        "type": "percentage",
+        "amount": 15
+      },
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Russian-Matroshka.jpg/1920px-Russian-Matroshka.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Lego",
+      "type": "Creative toys",
+      "price": {
+        "currency": "€",
+        "amount": 40
+      },
+      "ageRestrictions": {
+        "from": 3
+      },
+      "discount": {
+        "type": "toFixed",
+        "amount": 33
+      },
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lego_Color_Bricks.jpg/1920px-Lego_Color_Bricks.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Robot dog",
+      "type": "Electronic toys",
+      "price": {
+        "currency": "€",
+        "amount": 678
+      },
+      "ageRestrictions": {
+        "from": 10
+      },
+      "discount": {
+        "type": "percentage",
+        "amount": 10
+      },
+      "imgSrc": "https://static.wixstatic.com/media/c07776_8e34e33e6c6b42b7a835a620b8df1370~mv2.png"
+    },
+    {
+      "id": "5",
+      "title": "Atari 2600",
+      "type": "Games",
+      "price": {
+        "currency": "€",
+        "amount": 87
+      },
+      "ageRestrictions": {
+        "from": 12
+      },
+      "discount": {
+        "type": "amount",
+        "amount": 15
+      },
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/450px-Atari-2600-Wood-4Sw-Set.png"
+    },
+    {
+      "id": "6",
+      "title": "Magic 8-Ball",
+      "type": "Executive toys",
+      "price": {
+        "currency": "$",
+        "amount": 8
+      },
+      "ageRestrictions": {
+        "from": null
+      },
+      "discount": {
+        "type": "toFixed",
+        "amount": 7.99
+      },
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Magic8ball.jpg/330px-Magic8ball.jpg"
+    }
+  ]
+}
