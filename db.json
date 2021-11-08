@@ -59,9 +59,7 @@
         "currency": "€",
         "amount": 678
       },
-      "ageRestrictions": {
-        "from": 10
-      },
+      "ageRestrictions": null,
       "discount": {
         "type": "percentage",
         "amount": 10
@@ -93,9 +91,7 @@
         "currency": "$",
         "amount": 8
       },
-      "ageRestrictions": {
-        "from": null
-      },
+      "ageRestrictions": null,
       "discount": {
         "type": "toFixed",
         "amount": 7.99
