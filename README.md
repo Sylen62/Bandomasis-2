@@ -1,6 +1,6 @@
 # Bandomasis-2
 
-# Required programs
+## Required programs
 
 node.js
 
